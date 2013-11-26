@@ -2,12 +2,12 @@
 
 Summary:	A package to handle graph data structures
 Name:		R-%{packname}
-Version:	1.36.0
+Version:	1.40.0
 Release:	1
 License:	Artistic 2.0
 Group:		X11/Applications
 Source0:	http://www.bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	29230f666d6afff063d7acc3cad350fb
+# Source0-md5:	a1d30ab931d4edf8b63e28ffc81a7057
 URL:		http://www.bioconductor.org/packages/release/bioc/html/graph.html
 BuildRequires:	R-BiocGenerics
 BuildRequires:	R
